@@ -1,2 +1,1 @@
-# first-repository
-This is my first repository and introduce to git
+Este documento es una prueba, ya que estoy iniciando en el mundo de los comandos y aplicaciones de git
